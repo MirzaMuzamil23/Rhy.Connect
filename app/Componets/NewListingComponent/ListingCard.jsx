@@ -1,7 +1,7 @@
 import React from 'react'
-import { Star, MapPin } from 'lucide-react'
+import { MapPin, Star } from 'lucide-react'
 
-const FeatureCard = ({
+const ListingCard = ({
   title = "Real Estate",
   head = "Real Estate",
   count = 85,
@@ -106,4 +106,4 @@ const FeatureCard = ({
   )
 }
 
-export default FeatureCard
+export default ListingCard

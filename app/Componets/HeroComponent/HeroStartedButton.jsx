@@ -6,7 +6,6 @@ const HeroStartedButton = () => {
       <button className='bg-[#331410] text-white px-4 py-3 opacity-90 mt-2 rounded-lg'>
         Get Started <MoveRight className='inline-block ml-1' size={20} />
       </button>
-
   )
 }
 

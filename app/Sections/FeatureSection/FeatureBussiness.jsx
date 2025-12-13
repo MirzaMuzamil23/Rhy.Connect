@@ -4,9 +4,9 @@ import FeatureCardGrid from '../../Componets/FeatureComponent/FeatureCardGrid'
 
 const FeatureBusiness = () => {
   return (
-    <div>
+    <div className=' relative'  >
       <FeatureHeading />
-      <div className='px-10 pb-20'>
+      <div className='px-10 pb-20 '>
          <FeatureCardGrid />
       </div>
      
